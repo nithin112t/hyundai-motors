@@ -1,0 +1,149 @@
+
+
+#nav{
+    display: flex;
+}
+#img1{
+    margin-left: 100px;
+}
+.car{
+    
+    margin-left: 40px;
+}
+#hyper{
+    display: block;
+
+}
+#offer{
+    display: block;
+    color: red;
+
+}
+#main{
+    background-image: url("https://tridenthyundai.com/img/slider/creta-knight-edition.jpeg");
+    /* background-size: 500px 500px; */
+    background-size: 1600px;
+    background-repeat: no-repeat;
+    
+}
+
+#drop{
+    margin-left: 640px;
+    margin-top: 120px;
+    
+}
+#view{
+    height: 500px;
+}
+#circle{
+    border-radius: 100%;
+}
+#bgdown{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 430px 430px 430px 
+
+    
+}
+#service{
+    margin:20px;
+    display: flex;
+}
+#new-car{
+    text-align: center;
+}
+#display-cars{
+    display: grid;
+    align-items: center;
+    border: 2px solid;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    padding: auto;
+    
+}
+#display-car{
+    display: grid;
+    
+    grid-template-columns: 320px 320px 320px 320px ;
+    margin: 30px;
+    
+
+}
+
+#centers{
+    text-align: center;
+}
+
+#serv{
+    background-image: url("https://tridenthyundai.com/img/showrooms/showrooms-1.jpeg");
+    /* background-size: 500px 500px; */
+    background-size: 300px;
+    background-repeat: no-repeat;
+
+}
+#width{
+    width: 300px;
+    height: 300px;
+}
+
+#cent{
+    background-image: url("https://tridenthyundai.com/img/service-center/service-center-1.jpeg");
+    /* background-size: 500px 500px; */
+    background-size: 300px;
+    background-repeat: no-repeat;
+
+}
+
+#promise{
+    background-image: url("https://tridenthyundai.com/img/service-center/h-promise-1.jpeg");
+    /* background-size: 500px 500px; */
+    background-size: 300px;
+    background-repeat: no-repeat;
+
+}
+
+.service-centers{
+    display: grid;
+    
+    grid-template-columns: 320px 320px 320px  ;
+    margin: 80px;
+    justify-content: space-around;
+
+}
+
+.whats{
+    display: grid;
+    
+    grid-template-columns: 600px 300px   ;
+   
+    
+
+}
+
+#information{
+    background-color: rgb(129, 164, 165);
+    margin-top: 20px;
+    display: flex;
+}
+#form{
+    background-color: rgb(47, 57, 206);
+    margin: 20px;
+    height: 100px;
+}
+
+#footer{
+    display: grid;
+}
+#align-footer{
+    display: grid;
+    grid-template-columns: 320px 320px 320px 320px ;
+    background-color: black;
+    color: white;
+}
+input{
+    width: 245px;
+}
